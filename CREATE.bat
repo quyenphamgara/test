@@ -1,0 +1,1 @@
+ netsh wlan set hostednetwork mode=allow ssid=hitman key=03061995
